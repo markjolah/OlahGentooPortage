@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+  <repo priority="40" quality="experimental" status="official">
+    <name>olah-science</name>
+    <description>Science and Numerical computing related libraries</description>
+    <homepage>https://github.com/markjolah/OlahScienceGentooOverlay</homepage>
+    <owner>
+	  <name>Mark Olah</name>
+    </owner>
+	<source type="git">https://github.com/markjolah/OlahScienceGentooOverlay.git</source>
+  </repo>
+</repositories>
